@@ -21,7 +21,7 @@ The existing **Cloud Engineering** course is being revamped into a new **Platfor
 
 ## Outline format
 
-Use a `#` title, then one table per module under a `## Module N - Name (X weeks)` heading. Weeks restart at 1 in each module. Coaching sessions use `CO` in the Unit column.
+Use a `#` title, then one table per module under a `## Module N - Name (X weeks)` heading. Platform Engineering numbers weeks continuously across the course (1-24); the Cloud Engineering outline restarts weeks at 1 in each module. Coaching sessions use `CO` in the Unit column.
 
 ```markdown
 # Platform Engineering Course Outline
