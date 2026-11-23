@@ -1,6 +1,6 @@
 # Platform Engineering Course Outline
 
-## Module 1 - Cloud computing fundamentals (2 weeks)
+## Module 1 - Cloud Computing Foundations (2 weeks)
 
 | Week | Unit | Lesson |
 | ---- | ---- | ------ |
@@ -11,7 +11,7 @@
 | 2 | 1.5 | |
 | 2 | 1.6 | |
 
-## Module 2 - Cloud architecture and IaC (4 weeks)
+## Module 2 - Cloud Architecture and IaC (4 weeks)
 
 | Week | Unit | Lesson |
 | ---- | ---- | ------ |
@@ -28,7 +28,7 @@
 | 6 | 2.11 | |
 | 6 | 2.12 | |
 
-## Module 3 - Agentic workflows (4 weeks)
+## Module 3 - Agentic Workflows (4 weeks)
 
 | Week | Unit | Lesson |
 | ---- | ---- | ------ |
@@ -45,7 +45,7 @@
 | 10 | 3.11 | |
 | 10 | 3.12 | |
 
-## Module 4 - DevSecOps and AI ops (4 weeks)
+## Module 4 - DevSecOps and AI Ops (4 weeks)
 
 | Week | Unit | Lesson |
 | ---- | ---- | ------ |
@@ -62,7 +62,7 @@
 | 14 | 4.11 | |
 | 14 | 4.12 | |
 
-## Module 5 - Orchestration and platform engineering (4 weeks)
+## Module 5 - Orchestration and Platform Engineering (4 weeks)
 
 | Week | Unit | Lesson |
 | ---- | ---- | ------ |
@@ -79,7 +79,7 @@
 | 18 | 5.11 | |
 | 18 | 5.12 | |
 
-## Module 6 - Site reliability engineering (4 weeks)
+## Module 6 - Site Reliability Engineering (4 weeks)
 
 | Week | Unit | Lesson |
 | ---- | ---- | ------ |
@@ -102,7 +102,7 @@
 | ---- | ---- | ------ |
 | 23 | 7.1 | Project Consultation |
 | 23 | 7.2 | Project Consultation |
-| 23 | 7.3 | Project Consultation |
+| 23 | 7.3 | Guest Speaker |
 | 24 | 7.4 | Project Consultation |
 | 24 | 7.5 | Project Consultation |
 | 24 | 7.6 | Project Presentation |

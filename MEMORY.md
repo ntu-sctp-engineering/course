@@ -10,6 +10,8 @@ Running log of decisions and context for future sessions. Add new entries at the
 
 ## Log
 
+* 2026-11-23 - Platform Engineering module titles now use title case (acronyms such as IaC, AI and DevSecOps kept as is), M1 renamed from "Cloud computing fundamentals" to "Cloud Computing Foundations", and unit 7.3 changed from Project Consultation to Guest Speaker, at Justin's request. Capstone is now 7.1, 7.2, 7.4, 7.5 Project Consultation, 7.3 Guest Speaker, 7.6 Project Presentation.
+
 * 2026-11-23 - Added a `Summary` column to every table in `course/outline/cloud-engineering.md`, at Justin's request: one short sentence per unit, taken from the lesson slides (lessons) or activity docs (coaching) in the "Shared with Students" Drive folder `1_i1UjJpbAXIbDtyjQcRlVGv45mnbDmgr`. Coaching rows were summarised too, since Justin asked for all units. No material exists for 3.16 Case Study & Capstone Prep, Coaching 15 or Coaching 23, so those cells are blank.
 * 2026-11-23 - Platform Engineering weeks now run continuously across the course (M1 1-2, M2 3-6, M3 7-10, M4 11-14, M5 15-18, M6 19-22, M7 23-24) instead of restarting per module, at Justin's request. Unit numbers unchanged. Cloud Engineering still restarts weeks per module.
 * 2026-11-23 - Renamed the outline table column from "Lesson title" to "Lesson" in both outlines and AGENTS.md, at Justin's request. Filled in Platform Engineering capstone: 7.1-7.5 Project Consultation, 7.6 Project Presentation.
