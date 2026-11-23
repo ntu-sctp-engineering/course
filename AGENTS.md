@@ -28,11 +28,11 @@ Use a `#` title, then one table per module under a `## Module N - Name (X weeks)
 
 ## Module 1 - Name (2 weeks)
 
-| Week | Unit | Lesson |
-| ---- | ---- | ------ |
-| 1 | 1.1 | Title |
-| 1 | 1.2 | Title |
-| 1 | CO | Coaching 1 |
+| Week | Unit | Lesson | Summary |
+| ---- | ---- | ------ | ------- |
+| 1 | 1.1 | Title | One short sentence on what the lesson teaches. |
+| 1 | 1.2 | Title | One short sentence on what the lesson teaches. |
+| 1 | CO | Coaching 1 | One short sentence on what the session covers. |
 ```
 
 ## Conventions
