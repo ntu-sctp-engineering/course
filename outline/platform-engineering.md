@@ -15,18 +15,18 @@
 
 | Week | Unit | Lesson | Summary |
 | ---- | ---- | ------ | ------- |
-| 3 | 2.1 | | |
-| 3 | 2.2 | | |
-| 3 | 2.3 | | |
-| 4 | 2.4 | | |
-| 4 | 2.5 | | |
-| 4 | 2.6 | | |
-| 5 | 2.7 | | |
-| 5 | 2.8 | | |
-| 5 | 2.9 | | |
-| 6 | 2.10 | | |
-| 6 | 2.11 | | |
-| 6 | 2.12 | | |
+| 3 | 2.1 | Well-Architected Design and Resilience | Applies the six pillars of the AWS Well-Architected Framework and the basics of high availability and disaster recovery (multi-AZ design, availability targets, backups, RTO and RPO) through a group architecture review. |
+| 3 | 2.2 | Infrastructure as Code with Terraform | Introduces Infrastructure as Code and the Terraform init, plan, apply and destroy workflow by rebuilding the Module 1 VPC and EC2 web server as code in a Git repository. |
+| 3 | 2.3 | Terraform Variables, Outputs and State | Makes configurations reusable with variables, outputs, locals and data sources, and explains Terraform state, remote S3 backends and state locking for team work. |
+| 4 | 2.4 | Terraform Modules | Packages infrastructure into reusable custom modules, uses community modules from the Terraform Registry, and applies tagging, formatting and validation conventions. |
+| 4 | 2.5 | Load Balancing and Auto Scaling | Builds a highly available web tier in Terraform with an Application Load Balancer, target groups and health checks, an Auto Scaling group across AZs, and HTTPS through Route 53 and ACM. |
+| 4 | 2.6 | IAM as Code | Puts the IAM basics from Module 1 into practice by writing least-privilege roles, policies and instance profiles in Terraform so workloads can reach AWS services without access keys. |
+| 5 | 2.7 | Storage and Content Delivery | Compares S3, EBS and EFS, then uses Terraform to host a private S3 static site behind CloudFront with origin access control, versioning and lifecycle rules. |
+| 5 | 2.8 | Managed Databases | Chooses between relational and NoSQL databases and provisions RDS (multi-AZ, read replicas, backups, encryption) and DynamoDB with Terraform. |
+| 5 | 2.9 | Secrets and Configuration | Keeps credentials out of code by storing and rotating secrets in AWS Secrets Manager and Parameter Store, reading them at runtime, and handling sensitive values safely in Terraform. |
+| 6 | 2.10 | Serverless Computing with Lambda | Introduces serverless and AWS Lambda (runtimes, triggers, permissions, packaging and VPC access), deploying functions with Terraform and triggering them from S3 events. |
+| 6 | 2.11 | Serverless APIs and Event-Driven Architecture | Builds a REST API with API Gateway, Lambda and DynamoDB, then decouples services with SQS, SNS and EventBridge. |
+| 6 | 2.12 | Cloud Cost and Architecture Review | Covers AWS pricing models, Cost Explorer, budgets and cost-aware tagging, then has teams review and cost a Terraform-built architecture against the Well-Architected pillars. |
 
 ## Module 3 - Agentic Workflows (4 weeks)
 
