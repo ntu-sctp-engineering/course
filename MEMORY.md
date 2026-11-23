@@ -10,6 +10,7 @@ Running log of decisions and context for future sessions. Add new entries at the
 
 ## Log
 
+* 2026-11-23 - Added `course/outline/platform-engineering.md` skeleton: 7 modules (2+4+4+4+4+4+2 = 24 weeks), 3 lessons a week, units numbered within each module (1.1-1.6 ... 7.1-7.6), 72 units in all. Lesson titles left blank for now. Weeks restart at 1 in each module. Uses a Week / Unit / Lesson title table per module instead of bullets, because Justin asked for an "outline table".
 * 2026-11-23 - Added `AGENTS.md` and `MEMORY.md` to give agents the brief, layout and conventions.
 * 2026-11-23 - Cloud Engineering outline merged in PR #1.
 * Preference: Justin likes outlines as bullet lists under `## Module N` headings (e.g. `* Unit 1.1 - Title`).

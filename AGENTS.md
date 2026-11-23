@@ -10,6 +10,7 @@ The existing **Cloud Engineering** course is being revamped into a new **Platfor
 
 * `README.md` - repo readme
 * `course/outline/` - course outlines, one Markdown file per course
+  * `platform-engineering.md` - the new Platform Engineering outline (7 modules, 3 lessons a week, tables per module)
   * `cloud-engineering.md` - the current Cloud Engineering outline (source: "CE Cohort 12" tab of Google Sheet `1l0Kjis-lhFnDtFRzYnCA-qzrCbHY0QnmpTcE60kdnr4`)
 * `MEMORY.md` - running log of decisions and context; read it at the start of a session
 
