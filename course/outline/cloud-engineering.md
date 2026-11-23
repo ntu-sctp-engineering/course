@@ -2,8 +2,8 @@
 
 ## Module 1 - IT Infrastructure Essentials (6 weeks)
 
-| Week | Unit | Lesson title |
-| ---- | ---- | ------------ |
+| Week | Unit | Lesson |
+| ---- | ---- | ------ |
 | 1 | 1.1 | Introduction to IT Infrastructure |
 | 1 | 1.2 | Networking Essentials |
 | 2 | 1.3 | Network Communications Protocol |
@@ -24,8 +24,8 @@
 
 ## Module 2 - Cloud Technologies Essentials and Architectural Design (10 weeks)
 
-| Week | Unit | Lesson title |
-| ---- | ---- | ------------ |
+| Week | Unit | Lesson |
+| ---- | ---- | ------ |
 | 1 | 2.1 | Principles in Cloud Arch. Design |
 | 1 | 2.2 | Infrastructure as Code 1 |
 | 1 | CO | Coaching 6 |
@@ -55,8 +55,8 @@
 
 ## Module 3 - DevSecOps Essentials and System Monitoring Strategies (8 weeks)
 
-| Week | Unit | Lesson title |
-| ---- | ---- | ------------ |
+| Week | Unit | Lesson |
+| ---- | ---- | ------ |
 | 1 | 3.1 | Introduction to DevSecOps |
 | 1 | 3.2 | DevSecOps and Workflow |
 | 1 | CO | Coaching 16 |

@@ -2,8 +2,8 @@
 
 ## Module 1 - Cloud computing fundamentals (2 weeks)
 
-| Week | Unit | Lesson title |
-| ---- | ---- | ------------ |
+| Week | Unit | Lesson |
+| ---- | ---- | ------ |
 | 1 | 1.1 | |
 | 1 | 1.2 | |
 | 1 | 1.3 | |
@@ -13,8 +13,8 @@
 
 ## Module 2 - Cloud architecture and IaC (4 weeks)
 
-| Week | Unit | Lesson title |
-| ---- | ---- | ------------ |
+| Week | Unit | Lesson |
+| ---- | ---- | ------ |
 | 1 | 2.1 | |
 | 1 | 2.2 | |
 | 1 | 2.3 | |
@@ -30,8 +30,8 @@
 
 ## Module 3 - Agentic workflows (4 weeks)
 
-| Week | Unit | Lesson title |
-| ---- | ---- | ------------ |
+| Week | Unit | Lesson |
+| ---- | ---- | ------ |
 | 1 | 3.1 | |
 | 1 | 3.2 | |
 | 1 | 3.3 | |
@@ -47,8 +47,8 @@
 
 ## Module 4 - DevSecOps and AI ops (4 weeks)
 
-| Week | Unit | Lesson title |
-| ---- | ---- | ------------ |
+| Week | Unit | Lesson |
+| ---- | ---- | ------ |
 | 1 | 4.1 | |
 | 1 | 4.2 | |
 | 1 | 4.3 | |
@@ -64,8 +64,8 @@
 
 ## Module 5 - Orchestration and platform engineering (4 weeks)
 
-| Week | Unit | Lesson title |
-| ---- | ---- | ------------ |
+| Week | Unit | Lesson |
+| ---- | ---- | ------ |
 | 1 | 5.1 | |
 | 1 | 5.2 | |
 | 1 | 5.3 | |
@@ -81,8 +81,8 @@
 
 ## Module 6 - Site reliability engineering (4 weeks)
 
-| Week | Unit | Lesson title |
-| ---- | ---- | ------------ |
+| Week | Unit | Lesson |
+| ---- | ---- | ------ |
 | 1 | 6.1 | |
 | 1 | 6.2 | |
 | 1 | 6.3 | |
@@ -98,11 +98,11 @@
 
 ## Module 7 - Capstone (2 weeks)
 
-| Week | Unit | Lesson title |
-| ---- | ---- | ------------ |
-| 1 | 7.1 | |
-| 1 | 7.2 | |
-| 1 | 7.3 | |
-| 2 | 7.4 | |
-| 2 | 7.5 | |
-| 2 | 7.6 | |
+| Week | Unit | Lesson |
+| ---- | ---- | ------ |
+| 1 | 7.1 | Project Consultation |
+| 1 | 7.2 | Project Consultation |
+| 1 | 7.3 | Project Consultation |
+| 2 | 7.4 | Project Consultation |
+| 2 | 7.5 | Project Consultation |
+| 2 | 7.6 | Project Presentation |
