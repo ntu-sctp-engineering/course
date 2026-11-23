@@ -21,7 +21,7 @@ The existing **Cloud Engineering** course is being revamped into a new **Platfor
 
 ## Outline format
 
-Use a `#` title, then one table per module under a `## Module N - Name (X weeks)` heading. Platform Engineering numbers weeks continuously across the course (1-24); the Cloud Engineering outline restarts weeks at 1 in each module. Coaching sessions use `CO` in the Unit column.
+Use a `#` title, then one table per module under a `## Module N - Name (X weeks)` heading. Platform Engineering numbers weeks continuously across the course (1-24); the Cloud Engineering outline restarts weeks at 1 in each module. Coaching sessions use `CO` in the Unit column. The Cloud Engineering outline also has a fourth `Summary` column: one short sentence per unit, summarising its lesson material from the "Shared with Students" Google Drive folder (`1_i1UjJpbAXIbDtyjQcRlVGv45mnbDmgr`); leave it blank where no material exists.
 
 ```markdown
 # Platform Engineering Course Outline
