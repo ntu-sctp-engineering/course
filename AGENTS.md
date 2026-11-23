@@ -11,7 +11,7 @@ The existing **Cloud Engineering** course is being revamped into a new **Platfor
 * `README.md` - repo readme
 * `course/outline/` - course outlines, one Markdown file per course
   * `platform-engineering.md` - the new Platform Engineering outline (7 modules, 3 lessons a week, tables per module)
-  * `cloud-engineering.md` - the current Cloud Engineering outline (source: "CE Cohort 12" tab of Google Sheet `1l0Kjis-lhFnDtFRzYnCA-qzrCbHY0QnmpTcE60kdnr4`)
+  * `cloud-engineering.md` - the current Cloud Engineering outline (3 modules, tables per module; source: "CE Cohort 12" tab of Google Sheet `1l0Kjis-lhFnDtFRzYnCA-qzrCbHY0QnmpTcE60kdnr4`)
 * `MEMORY.md` - running log of decisions and context; read it at the start of a session
 
 ## Course structure
@@ -21,16 +21,18 @@ The existing **Cloud Engineering** course is being revamped into a new **Platfor
 
 ## Outline format
 
-Use a `#` title, then bullet lists under `## Module N` headings:
+Use a `#` title, then one table per module under a `## Module N - Name (X weeks)` heading. Weeks restart at 1 in each module. Coaching sessions use `CO` in the Unit column.
 
 ```markdown
 # Platform Engineering Course Outline
 
-## Module 1
+## Module 1 - Name (2 weeks)
 
-* Unit 1.1 - Title
-* Unit 1.2 - Title
-* CO - Coaching 1
+| Week | Unit | Lesson title |
+| ---- | ---- | ------------ |
+| 1 | 1.1 | Title |
+| 1 | 1.2 | Title |
+| 1 | CO | Coaching 1 |
 ```
 
 ## Conventions
